@@ -3,6 +3,11 @@ body {
   color: purple;
   background-color: #d8da3d;
 }
-.h1 {
+h1 {
   font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+}
+
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: aliceblue;
 }
